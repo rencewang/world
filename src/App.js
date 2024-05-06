@@ -1,4 +1,6 @@
 import './App.css';
+import Map from './components/map';
+import Header from './components/header';
 
 function App() {
   return (
@@ -12,7 +14,7 @@ function App() {
       <section></section>
 
       {/* take in the map component */}
-      <section></section>
+      <Map />
 
       {/* take in a footer component */}
       <footer></footer>
