@@ -1,5 +1,5 @@
 function Header() {
-  return <header>map nn</header>;
+  return <header>map</header>;
 }
 
 export default Header;
