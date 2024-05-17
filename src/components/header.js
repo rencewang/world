@@ -1,5 +1,10 @@
 function Header() {
-  return <header>siet</header>;
+  return (
+    <header>
+      <div>about</div>
+      <div>details</div>
+    </header>
+  );
 }
 
 export default Header;
