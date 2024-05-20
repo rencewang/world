@@ -1,4 +1,3 @@
-
 "Date","FlightNumber","From","To","DepTime","ArrTime","Duration","Airline","Aircraft","Registration","SeatNumber","SeatType","FlightClass","FlightReason","Note","Dep_id","Arr_id","Airline_id","Aircraft_id"
 2023-09-07,AA2541,"Ontario / Ontario (ONT/KONT)","Phoenix / Sky Harbor (PHX/KPHX)",19:10:00,20:25:00,01:15:00,"American Airlines (AA/AAL)","Airbus A319 (A319)",,25A,1,1,0,,2196,2315,4,26
 2023-09-07,AA2669,"Phoenix / Sky Harbor (PHX/KPHX)","Newark / Liberty International (EWR/KEWR)",22:41:00,06:15:00,04:34:00,"American Airlines (AA/AAL)","Airbus A321-200 (A321)",,33D,3,1,0,,2315,851,4,2076
