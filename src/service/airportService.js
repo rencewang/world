@@ -9,7 +9,9 @@ class AirportService {
     if (!this.airportData) {
       try {
         // Fetch airport data from the CSV file
-        const response = await fetch('../database/airports.csv');
+        const response = await fetch(
+          'https://raw.githubusercontent.com/rencewang/world/927d80ab1666718c1e2d3790e8ff960dc20b5c84/src/database/airports.csv'
+        );
         const reader = response.body.getReader();
         const result = await reader.read();
         const decoder = new TextDecoder('utf-8');

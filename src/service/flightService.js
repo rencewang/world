@@ -4,7 +4,9 @@ const FlightService = {
   getFlights: async () => {
     try {
       // Fetch flight data from the CSV file
-      const response = await fetch('../database/flights.csv');
+      const response = await fetch(
+        'https://raw.githubusercontent.com/rencewang/world/main/src/database/flights.csv'
+      );
       const reader = response.body.getReader();
       const result = await reader.read();
       const decoder = new TextDecoder('utf-8');
