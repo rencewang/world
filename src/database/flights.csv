@@ -1,0 +1,159 @@
+
+Date,FlightNumber,From,To,"Dep time","Arr time",Duration,Airline,Aircraft,Registration,"Seat number","Seat type","Flight class","Flight reason",Note,Dep_id,Arr_id,Airline_id,Aircraft_id
+2023-09-07,AA2541,"Ontario / Ontario (ONT/KONT)","Phoenix / Sky Harbor (PHX/KPHX)",19:10:00,20:25:00,01:15:00,"American Airlines (AA/AAL)","Airbus A319 (A319)",,25A,1,1,0,,2196,2315,4,26
+2023-09-07,AA2669,"Phoenix / Sky Harbor (PHX/KPHX)","Newark / Liberty International (EWR/KEWR)",22:41:00,06:15:00,04:34:00,"American Airlines (AA/AAL)","Airbus A321-200 (A321)",,33D,3,1,0,,2315,851,4,2076
+2023-06-01,BR11,"Los Angeles / Los Angeles International (LAX/KLAX)","Taipei / Taoyuan (TPE/RCTP)",00:15:00,05:10:00,13:55:00,"EVA Airways (BR/EVA)","Boeing 777-300ER (B77W)",,70B,2,1,0,,1559,2996,281,2023
+2023-06-08,UO113,"Taipei / Taoyuan (TPE/RCTP)","Hong Kong / Hong Kong International (HKG/VHHH)",15:20:00,17:10:00,01:50:00,"Hong Kong Express Airways (UO/HKE)","Airbus A320-200 (A320)",,21C,3,1,0,,2996,1135,1231,2059
+2023-06-13,FM876,"Macau / Macau (MFM/VMMC)","Shanghai / Pudong (PVG/ZSPD)",13:30:00,16:15:00,02:45:00,"Shanghai Airlines (FM/CSH)","Boeing 737-800 (B738)",,,0,1,0,,1811,3653,206,231
+2023-07-18,BR16,"Taipei / Taoyuan (TPE/RCTP)","Los Angeles / Los Angeles International (LAX/KLAX)",23:55:00,20:55:00,12:00:00,"EVA Airways (BR/EVA)","Boeing 777-300ER (B77W)",,,0,1,0,,2996,1559,281,2023
+2023-07-18,MU2754,"Changsha / Huanghua (CSX/ZGHA)","Nanjing / Nanjing (NKG/ZSNJ)",09:25:00,10:55:00,01:30:00,"China Eastern Airlines (MU/CES)","Airbus A320-200 (A320)",,,1,2,0,,624,2066,178,2059
+2023-07-18,MU5001,"Nanjing / Nanjing (NKG/ZSNJ)","Taipei / Taoyuan (TPE/RCTP)",14:45:00,16:50:00,02:05:00,"China Eastern Airlines (MU/CES)","Airbus A320-200 (A320)",,,1,2,0,,2066,2996,178,2059
+2023-05-16,AV567,"New York / John F Kennedy (JFK/KJFK)","San Salvador / El Salvador (SAL/MSLP)",04:15:00,07:05:00,04:50:00,"Avianca (AV/AVA)","Airbus A320-200 (A320)",,29E,2,1,0,,1328,2588,95,2059
+2023-05-16,AV430,"San Salvador / El Salvador (SAL/MSLP)","Mexico City / Juarez (MEX/MMMX)",08:35:00,11:55:00,02:20:00,"Avianca (AV/AVA)","Airbus A320-200 (A320)",,4B,2,1,0,,2588,1800,95,2059
+2023-05-19,AA2996,"Mexico City / Juarez (MEX/MMMX)","New York / John F Kennedy (JFK/KJFK)",00:15:00,06:04:00,04:49:00,"American Airlines (AA/AAL)","Boeing 737 MAX 8 (B38M)",,28D,3,1,0,,1800,1328,4,2123
+2023-05-23,UA621,"Newark / Liberty International (EWR/KEWR)","Los Angeles / Los Angeles International (LAX/KLAX)",19:30:00,22:45:00,06:15:00,"United Airlines (UA/UAL)","Boeing 757-200 (B752)",,32B,2,1,0,,851,1559,808,241
+2018-07-14,WN5721,"Los Angeles / Los Angeles International (LAX/KLAX)","Chicago / Chicago Midway (MDW/KMDW)",08:00:00,13:55:00,03:55:00,"Southwest Airlines (WN/SWA)","Boeing 737-700 (B737)",,,2,1,0,,1559,1785,736,230
+2018-07-25,WN2104,"Chicago / Chicago Midway (MDW/KMDW)","Los Angeles / Los Angeles International (LAX/KLAX)",13:55:00,16:20:00,04:25:00,"Southwest Airlines (WN/SWA)","Boeing 737-800 (B738)",,,0,1,0,,1785,1559,736,231
+2018-08-01,AA2532,"Los Angeles / Los Angeles International (LAX/KLAX)","Washington / Washington National (DCA/KDCA)",12:55:00,20:55:00,05:00:00,"American Airlines (AA/AAL)","Airbus A321LR (A21N)",,29F,1,1,0,,1559,682,4,2181
+2018-08-01,AA5557,"Washington / Washington National (DCA/KDCA)","Providence / Providence-Theodore Francis (PVD/KPVD)",22:20:00,23:35:00,01:15:00,"American Airlines (AA/AAL)","Embraer 175 (E75S)",,21A,1,1,0,,682,2430,4,2145
+2018-08-09,UA220,"Pittsburgh / Pittsburgh (PIT/KPIT)","Chicago / O'Hare (ORD/KORD)",17:35:00,18:21:00,01:46:00,"United Airlines (UA/UAL)","Airbus A320 (A320)",,31F,1,1,0,,2321,2205,808,27
+2018-08-11,AA2715,"Chicago / O'Hare (ORD/KORD)","Los Angeles / Los Angeles International (LAX/KLAX)",18:44:00,00:00:00,04:02:00,"American Airlines (AA/AAL)","Boeing 737-700 (B737)",,17A,1,1,0,,2205,1559,4,230
+2019-08-16,DL1362,"Los Angeles / Los Angeles International (LAX/KLAX)","New York / John F Kennedy (JFK/KJFK)",23:55:00,08:34:00,05:39:00,"Delta Air Lines (DL/DAL)","Boeing 767 (B767)",,,0,1,0,,1559,1328,223,2011
+2019-06-03,DL2940,"Los Angeles / Los Angeles International (LAX/KLAX)","Salt Lake City / Salt Lake City (SLC/KSLC)",20:00:00,22:54:00,01:54:00,"Delta Air Lines (DL/DAL)","Airbus A320-200 (A320)",,,0,1,0,,1559,2706,223,2059
+2019-06-08,DL1211,"Salt Lake City / Salt Lake City (SLC/KSLC)","Los Angeles / Los Angeles International (LAX/KLAX)",20:15:00,21:11:00,01:56:00,"Delta Air Lines (DL/DAL)","Airbus A320-200 (A320)",,,0,1,0,,2706,1559,223,2059
+2019-11-24,B6223,"New York / John F Kennedy (JFK/KJFK)","Los Angeles / Los Angeles International (LAX/KLAX)",20:10:00,23:32:00,06:22:00,"JetBlue Airways (B6/JBU)","Airbus A320 (A320)",,,0,1,0,,1328,1559,410,27
+2018-04-04,WN2402,"Los Angeles / Los Angeles International (LAX/KLAX)","New Orleans / Moisant Fld (MSY/KMSY)",09:35:00,15:05:00,03:30:00,"Southwest Airlines (WN/SWA)","Boeing 737-700 (B737)",,,0,1,0,,1559,1942,736,230
+2018-04-09,WN3330,"Pensacola / Pensacola Regl (PNS/KPNS)","Milwaukee / Gen Mitchell (MKE/KMKE)",12:10:00,17:00:00,04:50:00,"Southwest Airlines (WN/SWA)","Boeing 737-700 (B737)",,,0,1,0,,2369,1849,736,230
+2018-04-09,WN294,"Milwaukee / Gen Mitchell (MKE/KMKE)","Los Angeles / Los Angeles International (LAX/KLAX)",18:05:00,00:00:00,04:15:00,"Southwest Airlines (WN/SWA)","Boeing 737-700 (B737)",,,0,1,0,,1849,1559,736,230
+2018-06-01,AA1711,"Los Angeles / Los Angeles International (LAX/KLAX)","Washington / Washington National (DCA/KDCA)",13:04:00,20:55:00,04:51:00,"American Airlines (AA/AAL)","Airbus A321LR (A21N)",,,0,1,0,,1559,682,4,2181
+2018-06-05,AA1986,"Washington / Dulles (IAD/KIAD)","Los Angeles / Los Angeles International (LAX/KLAX)",08:30:00,11:27:00,05:57:00,"American Airlines (AA/AAL)","Airbus A321LR (A21N)",,,0,1,0,,1202,1559,4,2181
+2019-12-17,AY6,"New York / John F Kennedy (JFK/KJFK)","Helsinki / Vantaa (HEL/EFHK)",19:05:00,10:10:00,08:05:00,"Finnair (AY/FIN)","Airbus A330-300 (A333)",,,0,4,0,,1328,1110,304,31
+2019-12-18,AY81,"Helsinki / Vantaa (HEL/EFHK)","Beijing / Beijing Daxing International Airport (PKX/ZBAD)",17:10:00,07:10:00,09:00:00,"Finnair (AY/FIN)","Airbus A330-300 (A333)",,,0,1,0,,1110,9280,304,31
+2020-01-09,AY82,"Beijing / Beijing Daxing International Airport (PKX/ZBAD)","Helsinki / Vantaa (HEL/EFHK)",11:10:00,14:05:00,07:55:00,"Finnair (AY/FIN)","Airbus A330-300 (A333)",,7A,1,2,0,,9280,1110,304,31
+2020-01-09,AY1337,"Helsinki / Vantaa (HEL/EFHK)","London / Heathrow (LHR/EGLL)",16:00:00,17:05:00,03:05:00,"Finnair (AY/FIN)","Airbus A350-900 (A359)",,,0,1,0,,1110,1618,304,2110
+2020-01-09,AY4030,"London / Heathrow (LHR/EGLL)","New York / John F Kennedy (JFK/KJFK)",19:55:00,22:53:00,07:58:00,"Finnair (AY/FIN)","Boeing 777-200 (B772)",,,0,1,0,,1618,1328,304,246
+2020-03-07,AS343,"Newark / Liberty International (EWR/KEWR)","Los Angeles / Los Angeles International (LAX/KLAX)",16:00:00,19:49:00,06:49:00,"Alaska Airlines (AS/ASA)","Boeing 737-800 (B738)",,,0,1,0,,851,1559,79,231
+2021-01-27,UA1165,"Los Angeles / Los Angeles International (LAX/KLAX)","Newark / Liberty International (EWR/KEWR)",23:00:00,06:53:00,04:53:00,"United Airlines (UA/UAL)","Boeing 777 (B777)",,5L,1,2,0,,1559,851,808,2012
+2021-05-20,DL474,"Newark / Liberty International (EWR/KEWR)","Salt Lake City / Salt Lake City (SLC/KSLC)",18:15:00,21:45:00,05:30:00,"Delta Air Lines (DL/DAL)","Airbus A220-300 (BCS3)",,28E,2,1,0,,851,2706,223,2142
+2021-05-20,DL2425,"Salt Lake City / Salt Lake City (SLC/KSLC)","Ontario / Ontario (ONT/KONT)",22:59:00,23:41:00,01:42:00,"Delta Air Lines (DL/DAL)","Airbus A320-100 (A320)",,17F,1,1,0,,2706,2196,223,2058
+2021-08-29,B6354,"Ontario / Ontario (ONT/KONT)","New York / John F Kennedy (JFK/KJFK)",23:54:00,08:05:00,05:11:00,"JetBlue Airways (B6/JBU)","Airbus A321-200 (A321)",,12F,1,1,0,,2196,1328,410,2076
+2021-11-22,DL2100,"New York / La Guardia (LGA/KLGA)","Miami / Miami International (MIA/KMIA)",11:15:00,14:30:00,03:15:00,"Delta Air Lines (DL/DAL)","Boeing 737-700 (B737)",,26F,1,1,0,,1605,1831,223,230
+2021-11-26,UA1765,"Orlando / Orlando (MCO/KMCO)","Newark / Liberty International (EWR/KEWR)",20:15:00,22:58:00,02:43:00,"United Airlines (UA/UAL)","Boeing 737-700 (B737)",,23C,3,1,0,,1768,851,808,230
+2021-12-22,AS343,"Newark / Liberty International (EWR/KEWR)","Los Angeles / Los Angeles International (LAX/KLAX)",20:34:00,00:22:00,06:48:00,"Alaska Airlines (AS/ASA)","Boeing 737-800 (B738)",,26B,2,1,0,,851,1559,79,231
+2022-03-18,BA116,"New York / John F Kennedy (JFK/KJFK)","London / Heathrow (LHR/EGLL)",20:10:00,08:20:00,07:10:00,"British Airways (BA/BAW)","Boeing 777-300ER (B77W)",,35F,2,1,0,,1328,1618,113,2023
+2022-03-19,BA474,"London / Heathrow (LHR/EGLL)","Barcelona / El Prat (BCN/LEBL)",10:35:00,13:50:00,02:15:00,"British Airways (BA/BAW)","Airbus A320-200 (A320)",,16C,3,1,0,,1618,239,113,2059
+2022-03-22,VY1517,"Barcelona / El Prat (BCN/LEBL)","Nice / Nice Cote D'Azur (NCE/LFMN)",19:40:00,21:00:00,01:20:00,"Vueling Airlines (VY/VLG)","Airbus A320-200 (A320)",,15A,1,1,0,,239,2027,839,2059
+2022-03-27,AA67,"Barcelona / El Prat (BCN/LEBL)","New York / John F Kennedy (JFK/KJFK)",12:50:00,15:37:00,08:47:00,"American Airlines (AA/AAL)","Boeing 777-200 (B772)",,37G,2,1,0,,239,1328,4,246
+2022-05-12,UA504,"Newark / Liberty International (EWR/KEWR)","San Francisco / San Francisco International (SFO/KSFO)",18:40:00,21:55:00,06:15:00,"United Airlines (UA/UAL)","Boeing 777-300 (B773)",,35E,3,1,0,,851,2644,808,247
+2022-05-12,UA1698,"San Francisco / San Francisco International (SFO/KSFO)","Ontario / Ontario (ONT/KONT)",23:12:00,00:35:00,01:23:00,"United Airlines (UA/UAL)","Airbus A320 (A320)",,22F,1,1,0,,2644,2196,808,27
+2022-08-26,DL1131,"Ontario / Ontario (ONT/KONT)","Atlanta / Hartsfield-Jackson (ATL/KATL)",22:35:00,05:48:00,04:13:00,"Delta Air Lines (DL/DAL)","Airbus A321 (A321)",,26D,3,1,0,,2196,179,223,28
+2022-08-27,DL400,"Atlanta / Hartsfield-Jackson (ATL/KATL)","Newark / Liberty International (EWR/KEWR)",09:13:00,11:21:00,02:08:00,"Delta Air Lines (DL/DAL)","Boeing 737-800 (B738)",,16C,3,1,0,,179,851,223,231
+2022-11-20,NO789,"New York / John F Kennedy (JFK/KJFK)","Milan / Malpensa (MXP/LIMC)",17:00:00,07:00:00,08:00:00,"Neos (NO/NOS)","Boeing 787 Dreamliner (B787)",,,0,1,0,,1328,1983,569,2086
+2022-11-27,NO787,"Milan / Malpensa (MXP/LIMC)","New York / John F Kennedy (JFK/KJFK)",12:20:00,14:50:00,08:30:00,"Neos (NO/NOS)","Boeing 787 Dreamliner (B787)",,23G,3,1,0,,1983,1328,569,2086
+2022-12-13,AS343,"Newark / Liberty International (EWR/KEWR)","Los Angeles / Los Angeles International (LAX/KLAX)",15:20:00,18:43:00,06:23:00,"Alaska Airlines (AS/ASA)","Boeing 737-800 (B738)",,27F,1,1,0,,851,1559,79,231
+2022-12-27,UA644,"Los Angeles / Los Angeles International (LAX/KLAX)","Newark / Liberty International (EWR/KEWR)",21:40:00,05:37:00,04:57:00,"United Airlines (UA/UAL)","Boeing 777 (B777)",,34C,3,1,0,,1559,851,808,2012
+2022-12-28,DL182,"New York / John F Kennedy (JFK/KJFK)","Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF)",17:00:00,07:30:00,08:30:00,"Delta Air Lines (DL/DAL)","Airbus A330-200 (A332)",,42C,3,1,0,,1328,872,223,30
+2023-01-12,DL265,"Paris / Charles de Gaulle (CDG/LFPG)","New York / John F Kennedy (JFK/KJFK)",14:30:00,17:05:00,08:35:00,"Delta Air Lines (DL/DAL)","Boeing 767-400 (B764)",,,0,1,0,,509,1328,223,245
+2023-01-02,AZ572,"Rome / Leonardo da Vinci-Fiumicino (FCO/LIRF)","Zurich / Kloten (ZRH/LSZH)",08:30:00,10:05:00,01:35:00,"Alitalia (AZ/AZA)","Airbus A320neo (A20N)",,,0,1,0,,872,3548,105,2127
+2023-03-09,SQ25,"New York / John F Kennedy (JFK/KJFK)","Frankfurt am Main / Frankfurt (FRA/EDDF)",20:15:00,09:50:00,07:35:00,"Singapore Airlines (SQ/SIA)","Airbus A380-800 (A388)",,55D,3,1,0,,1328,919,703,39
+2023-03-09,SQ25,"Frankfurt am Main / Frankfurt (FRA/EDDF)","Singapore / Changi (SIN/WSSS)",11:40:00,06:50:00,13:10:00,"Singapore Airlines (SQ/SIA)","Airbus A380-800 (A388)",,55D,3,1,0,,919,2672,703,39
+2023-03-11,SQ710,"Singapore / Changi (SIN/WSSS)","Bangkok / Suvarnabhumi (BKK/VTBS)",13:05:00,14:35:00,02:30:00,"Singapore Airlines (SQ/SIA)","Airbus A350-900 (A359)",,58D,3,1,0,,2672,331,703,2110
+2023-03-11,VZ2304,"Bangkok / Suvarnabhumi (BKK/VTBS)","Phuket / Phuket (HKT/VTSP)",18:15:00,19:40:00,01:25:00,"Thai Vietjet Air (VZ/TVJ)","Airbus A321-200 (A321)",,,0,1,0,,331,1137,2438,2076
+2023-03-14,VZ315,"Phuket / Phuket (HKT/VTSP)","Bangkok / Suvarnabhumi (BKK/VTBS)",08:55:00,10:20:00,01:25:00,"Thai Vietjet Air (VZ/TVJ)","Airbus A321-200 (A321)",,,0,1,0,,1137,331,2438,2076
+2023-03-18,MM92,"Bangkok / Suvarnabhumi (BKK/VTBS)","Osaka / Kansai (KIX/RJBB)",01:10:00,08:55:00,05:45:00,"Peach (MM/APJ)","Airbus A321-200 (A321)",,10C,3,1,0,,331,3597,1564,2076
+2023-03-26,ZG24,"Tokyo / Narita (NRT/RJAA)","Los Angeles / Los Angeles International (LAX/KLAX)",20:10:00,14:04:00,09:54:00,"ZIPAIR (ZG/TZP)","Boeing 787-8 (B788)",,,0,1,0,,2105,1559,2742,2087
+2023-03-26,B62924,"Los Angeles / Los Angeles International (LAX/KLAX)","New York / John F Kennedy (JFK/KJFK)",22:00:00,05:55:00,04:55:00,"JetBlue Airways (B6/JBU)","Airbus A320 (A320)",,,0,1,0,,1559,1328,410,27
+2023-05-09,DL621,"New York / John F Kennedy (JFK/KJFK)","Cancun / Cancun (CUN/MMUN)",08:30:00,11:38:00,04:08:00,"Delta Air Lines (DL/DAL)","Boeing 737-900 (B739)",,18E,2,1,0,,1328,639,223,232
+2023-05-12,DL626,"Cancun / Cancun (CUN/MMUN)","Boston / Logan (BOS/KBOS)",13:00:00,18:22:00,04:22:00,"Delta Air Lines (DL/DAL)","Boeing 737-800 (B738)",,14A,1,1,0,,639,380,223,231
+2023-05-15,DL5743,"Boston / Logan (BOS/KBOS)","New York / La Guardia (LGA/KLGA)",16:00:00,17:30:00,01:30:00,"Delta Air Lines (DL/DAL)","Embraer 175 (E75S)",,19A,1,1,0,,380,1605,223,2145
+2017-08-09,HU7923,"Changsha / Huanghua (CSX/ZGHA)","Los Angeles / Los Angeles International (LAX/KLAX)",23:29:00,08:10:00,23:41:00,"Hainan Airlines (HU/CHH)","Boeing 787-9 (B789)",,,0,1,0,,624,1559,181,2088
+2017-07-27,CA8261,"Wuhan / Tianhe (WUH/ZHHH)","Chengdu / Shuangliu (CTU/ZUUU)",07:55:00,09:50:00,01:55:00,"Air China (CA/CCA)","Airbus A320-200 (A320)",,,0,1,0,,3249,633,172,2059
+2017-07-31,CA8262,"Chengdu / Shuangliu (CTU/ZUUU)","Wuhan / Tianhe (WUH/ZHHH)",10:55:00,12:50:00,01:55:00,"Air China (CA/CCA)","Airbus A320-200 (A320)",,,0,1,0,,633,3249,172,2059
+2017-04-06,,"Los Angeles / Los Angeles International (LAX/KLAX)","Denver / Denver (DEN/KDEN)",00:00:00,00:00:00,02:07:00,"Southwest Airlines (WN/SWA)","Boeing 737-800 (B738)",,,0,1,0,,1559,691,736,231
+2017-04-06,,"Denver / Denver (DEN/KDEN)","Pensacola / Pensacola Regl (PNS/KPNS)",00:00:00,00:00:00,02:48:00,"Southwest Airlines (WN/SWA)"," ()",,,0,1,0,,691,2369,736,0
+2019-04-06,HU7923,"Changsha / Huanghua (CSX/ZGHA)","Los Angeles / Los Angeles International (LAX/KLAX)",23:29:00,08:10:00,23:41:00,"Hainan Airlines (HU/CHH)","Boeing 787-9 (B789)",,,0,1,0,,624,1559,181,2088
+2019-03-23,HU7924,"Los Angeles / Los Angeles International (LAX/KLAX)","Changsha / Huanghua (CSX/ZGHA)",00:10:00,05:43:00,14:33:00,"Hainan Airlines (HU/CHH)","Boeing 787-9 (B789)",,,0,1,0,,1559,624,181,2088
+2017-06-28,CZ328,"Los Angeles / Los Angeles International (LAX/KLAX)","Guangzhou / Canton-Baiyun (CAN/ZGGG)",23:50:00,05:40:00,14:50:00,"China Southern Airlines (CZ/CSN)","Airbus A380-800 (A388)",,,0,1,0,,1559,478,207,39
+2017-08-09,CZ327,"Guangzhou / Canton-Baiyun (CAN/ZGGG)","Los Angeles / Los Angeles International (LAX/KLAX)",21:25:00,19:40:00,13:15:00,"China Southern Airlines (CZ/CSN)","Airbus A380-800 (A388)",,,0,1,0,,478,1559,207,39
+2017-08-09,,"Changsha / Huanghua (CSX/ZGHA)","Guangzhou / Canton-Baiyun (CAN/ZGGG)",00:00:00,00:00:00,00:58:00,"China Southern Airlines (CZ/CSN)"," ()",,,0,1,0,,624,478,207,0
+2017-06-30,,"Guangzhou / Canton-Baiyun (CAN/ZGGG)","Wuhan / Tianhe (WUH/ZHHH)",00:00:00,00:00:00,01:22:00,"China Southern Airlines (CZ/CSN)"," ()",,,0,1,0,,478,3249,207,0
+2017-04-10,,"Pensacola / Pensacola Regl (PNS/KPNS)","San Francisco / San Francisco International (SFO/KSFO)",00:00:00,00:00:00,04:43:00,"Southwest Airlines (WN/SWA)"," ()",,,0,1,0,,2369,2644,736,0
+2017-04-10,,"San Francisco / San Francisco International (SFO/KSFO)","Santa Ana / John Wayne-Orange Co (SNA/KSNA)",00:00:00,00:00:00,01:03:00,"Southwest Airlines (WN/SWA)"," ()",,,0,1,0,,2644,2726,736,0
+2017-02-16,,"Santa Ana / John Wayne-Orange Co (SNA/KSNA)","Atlanta / Hartsfield-Jackson (ATL/KATL)",00:00:00,00:00:00,04:24:00,"Southwest Airlines (WN/SWA)"," ()",,,0,1,0,,2726,179,736,0
+2017-02-21,,"Atlanta / Hartsfield-Jackson (ATL/KATL)","Santa Ana / John Wayne-Orange Co (SNA/KSNA)",00:00:00,00:00:00,04:24:00,"Southwest Airlines (WN/SWA)"," ()",,,0,1,0,,179,2726,736,0
+2016-08-05,,"Washington / Washington National (DCA/KDCA)","Los Angeles / Los Angeles International (LAX/KLAX)",00:00:00,00:00:00,05:15:00,"American Airlines (AA/AAL)"," ()",,,0,1,0,,682,1559,4,0
+2016-07-25,,"Los Angeles / Los Angeles International (LAX/KLAX)","Buffalo / Greater Buffalo (BUF/KBUF)",00:00:00,00:00:00,05:03:00,"JetBlue Airways (B6/JBU)"," ()",,,0,1,0,,1559,430,410,0
+2016-07-27,,"Buffalo / Greater Buffalo (BUF/KBUF)","Boston / Logan (BOS/KBOS)",00:00:00,00:00:00,01:06:00,"Delta Air Lines (DL/DAL)"," ()",,,0,1,0,,430,380,223,0
+2016-02-19,,"Santa Ana / John Wayne-Orange Co (SNA/KSNA)","Seattle / Seattle-Tacoma (SEA/KSEA)",00:00:00,00:00:00,02:22:00,"Southwest Airlines (WN/SWA)"," ()",,,0,1,0,,2726,2627,736,0
+2016-02-24,,"Seattle / Seattle-Tacoma (SEA/KSEA)","Santa Ana / John Wayne-Orange Co (SNA/KSNA)",00:00:00,00:00:00,02:22:00,"Southwest Airlines (WN/SWA)"," ()",,,0,1,0,,2627,2726,736,0
+2015-06-30,,"Vancouver / Vancouver (YVR/CYVR)","Los Angeles / Los Angeles International (LAX/KLAX)",00:00:00,00:00:00,02:36:00,"American Airlines (AA/AAL)"," ()",,,0,1,0,,3466,1559,4,0
+2015-06-18,,"Los Angeles / Los Angeles International (LAX/KLAX)","Anchorage / Anchorage (ANC/PANC)",00:00:00,00:00:00,05:20:00,"Alaska Airlines (AS/ASA)"," ()",,,0,1,0,,1559,124,79,0
+2014-12-21,,"Los Angeles / Los Angeles International (LAX/KLAX)","Cancun / Cancun (CUN/MMUN)",00:00:00,00:00:00,04:51:00," (/)"," ()",,,0,1,0,,1559,639,0,0
+2015-01-06,,"Cancun / Cancun (CUN/MMUN)","Los Angeles / Los Angeles International (LAX/KLAX)",00:00:00,00:00:00,04:51:00," (/)"," ()",,,0,1,0,,639,1559,0,0
+2014-06-05,CZ328,"Los Angeles / Los Angeles International (LAX/KLAX)","Guangzhou / Canton-Baiyun (CAN/ZGGG)",23:50:00,05:40:00,14:50:00,"China Southern Airlines (CZ/CSN)","Airbus A380-800 (A388)",,,0,1,0,,1559,478,207,39
+2014-06-07,,"Guangzhou / Canton-Baiyun (CAN/ZGGG)","Changsha / Huanghua (CSX/ZGHA)",00:00:00,00:00:00,00:58:00,"China Southern Airlines (CZ/CSN)"," ()",,,0,1,0,,478,624,207,0
+2014-07-11,,"Beijing / Peking-Capital (PEK/ZBAA)","Guangzhou / Canton-Baiyun (CAN/ZGGG)",00:00:00,00:00:00,02:47:00,"China Southern Airlines (CZ/CSN)"," ()",,,0,1,0,,2292,478,207,0
+2014-07-11,CZ327,"Guangzhou / Canton-Baiyun (CAN/ZGGG)","Los Angeles / Los Angeles International (LAX/KLAX)",21:25:00,19:40:00,13:15:00,"China Southern Airlines (CZ/CSN)","Airbus A380-800 (A388)",,,0,1,0,,478,1559,207,39
+2013-07-18,,"Wuhan / Tianhe (WUH/ZHHH)","Guangzhou / Canton-Baiyun (CAN/ZGGG)",00:00:00,00:00:00,01:22:00,"China Southern Airlines (CZ/CSN)"," ()",,,0,1,0,,3249,478,207,0
+2013-07-18,CZ327,"Guangzhou / Canton-Baiyun (CAN/ZGGG)","Los Angeles / Los Angeles International (LAX/KLAX)",21:25:00,19:40:00,13:15:00,"China Southern Airlines (CZ/CSN)","Airbus A380-800 (A388)",,,0,1,0,,478,1559,207,39
+2013-01-22,,"Wuhan / Tianhe (WUH/ZHHH)","Guangzhou / Canton-Baiyun (CAN/ZGGG)",00:00:00,00:00:00,01:22:00,"China Southern Airlines (CZ/CSN)"," ()",,,0,1,0,,3249,478,207,0
+2013-01-22,CZ327,"Guangzhou / Canton-Baiyun (CAN/ZGGG)","Los Angeles / Los Angeles International (LAX/KLAX)",21:25:00,19:40:00,13:15:00,"China Southern Airlines (CZ/CSN)","Airbus A380-800 (A388)",,,0,1,0,,478,1559,207,39
+2013-02-05,CZ328,"Los Angeles / Los Angeles International (LAX/KLAX)","Guangzhou / Canton-Baiyun (CAN/ZGGG)",23:50:00,05:40:00,14:50:00,"China Southern Airlines (CZ/CSN)","Airbus A380-800 (A388)",,,0,1,0,,1559,478,207,39
+2013-02-07,,"Guangzhou / Canton-Baiyun (CAN/ZGGG)","Changsha / Huanghua (CSX/ZGHA)",00:00:00,00:00:00,00:58:00,"China Southern Airlines (CZ/CSN)"," ()",,,0,1,0,,478,624,207,0
+2012-08-14,,"Lhasa / Gonggar (LXA/ZULS)","Chengdu / Shuangliu (CTU/ZUUU)",00:00:00,00:00:00,01:57:00," (/)"," ()",,,0,1,0,,1722,633,0,0
+2012-08-14,,"Chengdu / Shuangliu (CTU/ZUUU)","Wuhan / Tianhe (WUH/ZHHH)",00:00:00,00:00:00,01:34:00," (/)"," ()",,,0,1,0,,633,3249,0,0
+2012-01-15,,"Wuhan / Tianhe (WUH/ZHHH)","Harbin / Harbin Taiping (HRB/ZYHB)",00:00:00,00:00:00,02:53:00," (/)"," ()",,,0,1,0,,3249,1170,0,0
+2012-01-28,,"Shenyang / Taoxian (SHE/ZYTX)","Wuhan / Tianhe (WUH/ZHHH)",00:00:00,00:00:00,02:13:00," (/)"," ()",,,0,1,0,,3796,3249,0,0
+2010-07-24,,"Shanghai / Hongqiao (SHA/ZSSS)","Wuhan / Tianhe (WUH/ZHHH)",00:00:00,00:00:00,01:10:00,"China Eastern Airlines (MU/CES)"," ()",,,0,1,0,,2654,3249,178,0
+2010-08-04,,"Wuhan / Tianhe (WUH/ZHHH)","Shanghai / Pudong (PVG/ZSPD)",00:00:00,00:00:00,01:13:00,"China Eastern Airlines (MU/CES)"," ()",,,0,1,0,,3249,3653,178,0
+2010-08-04,,"Shanghai / Pudong (PVG/ZSPD)","Frankfurt am Main / Frankfurt (FRA/EDDF)",00:00:00,00:00:00,12:13:00,"China Eastern Airlines (MU/CES)"," ()",,,0,1,0,,3653,919,178,0
+2010-08-19,,"Frankfurt am Main / Frankfurt (FRA/EDDF)","Shanghai / Pudong (PVG/ZSPD)",00:00:00,00:00:00,12:13:00,"China Eastern Airlines (MU/CES)"," ()",,,0,1,0,,919,3653,178,0
+2010-08-20,,"Shanghai / Pudong (PVG/ZSPD)","Wuhan / Tianhe (WUH/ZHHH)",00:00:00,00:00:00,01:13:00,"China Eastern Airlines (MU/CES)"," ()",,,0,1,0,,3653,3249,178,0
+2011-07-19,,"Wuhan / Tianhe (WUH/ZHHH)","Xiamen / Gaoqi (XMN/ZSAM)",00:00:00,00:00:00,01:19:00,"Xiamen Airlines (MF/CXA)"," ()",,,0,1,0,,3249,3285,215,0
+2011-07-30,,"Xiamen / Gaoqi (XMN/ZSAM)","Wuhan / Tianhe (WUH/ZHHH)",00:00:00,00:00:00,01:19:00,"Xiamen Airlines (MF/CXA)"," ()",,,0,1,0,,3285,3249,215,0
+2007-08-04,,"Wuhan / Tianhe (WUH/ZHHH)","Guilin / Guilin Liangjiang International Airport (KWL/ZGKL)",00:00:00,00:00:00,01:15:00," (/)"," ()",,,0,1,0,,3249,1540,0,0
+2007-08-16,,"Guilin / Guilin Liangjiang International Airport (KWL/ZGKL)","Wuhan / Tianhe (WUH/ZHHH)",00:00:00,00:00:00,01:15:00," (/)"," ()",,,0,1,0,,1540,3249,0,0
+2008-07-29,,"Wuhan / Tianhe (WUH/ZHHH)","Xian / Xianyang (XIY/ZLXY)",00:00:00,00:00:00,01:07:00," (/)"," ()",,,0,1,0,,3249,3280,0,0
+2008-08-10,,"Xian / Xianyang (XIY/ZLXY)","Wuhan / Tianhe (WUH/ZHHH)",00:00:00,00:00:00,01:07:00," (/)"," ()",,,0,1,0,,3280,3249,0,0
+2023-10-30,AA532,"Chicago / O'Hare (ORD/KORD)","New York / John F Kennedy (JFK/KJFK)",11:35:00,14:45:00,02:10:00,"American Airlines (AA/AAL)","Boeing 737-800 (B738)",N849NN,1F,1,3,0,,2205,1328,4,231
+2023-10-28,AA2226,"New York / John F Kennedy (JFK/KJFK)","Chicago / O'Hare (ORD/KORD)",15:40:00,17:37:00,02:57:00,"American Airlines (AA/AAL)","Boeing 737-800 (B738)",N301NW,9A,1,4,0,,1328,2205,4,231
+2023-11-06,CX883,"Los Angeles / Los Angeles International (LAX/KLAX)","Hong Kong / Hong Kong International (HKG/VHHH)",22:15:00,06:15:00,17:00:00,"Cathay Pacific (CX/CPA)","Boeing 777-300ER (B77W)",B-KQU,33D,3,4,0,,1559,1135,199,2023
+2023-11-07,CX135,"Hong Kong / Hong Kong International (HKG/VHHH)","Melbourne / Tullamarine (MEL/YMML)",19:05:00,07:15:00,10:10:00,"Cathay Pacific (CX/CPA)","Airbus A350-900 (A359)",B-LRD,30A,1,4,0,,1135,1795,199,2110
+2023-11-13,CX178,"Melbourne / Tullamarine (MEL/YMML)","Hong Kong / Hong Kong International (HKG/VHHH)",01:00:00,06:55:00,07:55:00,"Cathay Pacific (CX/CPA)","Boeing 777-300ER (B77W)",B-KQK,30E,2,4,0,,1795,1135,199,2023
+2023-11-13,CX526,"Hong Kong / Hong Kong International (HKG/VHHH)","Tokyo / Narita (NRT/RJAA)",08:10:00,13:10:00,04:00:00,"Cathay Pacific (CX/CPA)","Airbus A350-900 (A359)",B-LRO,30K,1,4,0,,1135,2105,199,2110
+2023-11-19,QR813,"Tokyo / Haneda (HND/RJTT)","Doha / Hamad International (DOH/OTHH)",23:55:00,06:50:00,12:55:00,"Qatar Airways (QR/QTR)","Airbus A350-900 (A359)",A7-AMK,17D,3,1,0,,1152,5259,634,2110
+2023-11-20,QR239,"Doha / Hamad International (DOH/OTHH)","Istanbul / Istanbul Airport (IST/LTFM)",07:50:00,12:20:00,04:30:00,"Qatar Airways (QR/QTR)","Boeing 777-300ER (B77W)",A7-BOI,22G,3,2,0,,5259,8949,634,2023
+2023-11-25,GF44,"Istanbul / Istanbul Airport (IST/LTFM)","Bahrain / Bahrain (BAH/OBBI)",15:10:00,19:20:00,04:10:00,"Gulf Air (GF/GFA)","Airbus A320 (A320)",,2A,1,2,0,,8949,215,324,27
+2023-11-25,GF152,"Bahrain / Bahrain (BAH/OBBI)","Bangkok / Suvarnabhumi (BKK/VTBS)",22:25:00,08:55:00,06:30:00,"Gulf Air (GF/GFA)","Boeing 787-9 (B789)",,3A,1,2,0,,215,331,324,2088
+2023-11-26,BR212,"Bangkok / Suvarnabhumi (BKK/VTBS)","Taipei / Taoyuan (TPE/RCTP)",12:10:00,16:45:00,03:35:00,"EVA Airways (BR/EVA)","Boeing 777-300ER (B77W)",,52G,3,1,0,,331,2996,281,2023
+2023-12-01,JQ37,"Sydney / Kingsford Smith (SYD/YSSY)","Denpasar Bali / Ngurah Rai (DPS/WADD)",17:40:00,21:10:00,05:30:00,"Jetstar Airways (JQ/JST)","Airbus A321LR (A21N)",,39F,3,1,0,,2834,3582,419,2181
+2023-12-09,QF44,"Denpasar Bali / Ngurah Rai (DPS/WADD)","Sydney / Kingsford Smith (SYD/YSSY)",21:20:00,06:25:00,07:05:00,"Qantas Airways (QF/QFA)","Airbus A330-200 (A332)",VH-EBA,25B,3,1,0,,3582,2834,631,30
+2023-12-10,AA72,"Sydney / Kingsford Smith (SYD/YSSY)","Los Angeles / Los Angeles International (LAX/KLAX)",11:15:00,06:25:00,12:10:00,"American Airlines (AA/AAL)","Boeing 777-300ER (B77W)",N720AN,18D,3,4,0,,2834,1559,4,2023
+2023-12-18,AS3435,"Los Angeles / Los Angeles International (LAX/KLAX)","San Francisco / San Francisco International (SFO/KSFO)",14:15:00,15:44:00,01:29:00,"Alaska Airlines (AS/ASA)","Embraer 175 (E75L)",N197SY,11B,3,1,0,,1559,2644,79,2146
+2023-12-22,AS3375,"San Francisco / San Francisco International (SFO/KSFO)","Burbank / Glendale-Pasadena (BUR/KBUR)",14:55:00,16:20:00,01:25:00,"Alaska Airlines (AS/ASA)","Embraer 175 (E75L)",N413SY,3A,1,3,0,,2644,436,79,2146
+2023-11-27,CI51,"Taipei / Taoyuan (TPE/RCTP)","Sydney / Kingsford Smith (SYD/YSSY)",23:55:00,12:15:00,10:20:00,"China Airlines (CI/CAL)","Airbus A350-900 (A359)",,11K,1,2,0,,2996,2834,165,2110
+2023-11-13,MM573,"Tokyo / Narita (NRT/RJAA)","Sapporo / New Chitose (CTS/RJCC)",16:05:00,18:00:00,01:55:00,"Sociedad Aeronautica de Medellin Consolidada (MM/SAM)"," ()",,,3,1,0,,2105,631,675,0
+2023-11-17,MM582,"Sapporo / New Chitose (CTS/RJCC)","Tokyo / Narita (NRT/RJAA)",18:10:00,20:00:00,01:50:00,"Sociedad Aeronautica de Medellin Consolidada (MM/SAM)","Airbus A320-200 (A320)",,,3,1,0,,631,2105,675,2059
+2024-01-07,AA136,"Los Angeles / Los Angeles International (LAX/KLAX)","London / Heathrow (LHR/EGLL)",19:45:00,14:20:00,10:35:00,"American Airlines (AA/AAL)","Boeing 777-200 (B772)",N799AN,18H,3,1,0,,1559,1618,4,246
+2024-01-11,BA8714,"London / London City (LCY/EGLC)","Edinburgh / Edinburgh (EDI/EGPH)",19:45:00,21:00:00,01:15:00,"British Airways (BA/BAW)","Embraer ERJ-190 (E190)",G-LCAH,12A,1,1,0,,1581,785,113,655
+2024-01-13,BA1433,"Edinburgh / Edinburgh (EDI/EGPH)","London / Heathrow (LHR/EGLL)",13:00:00,14:30:00,01:30:00,"British Airways (BA/BAW)","Airbus A320 (A320)",G-EUUH,12D,3,1,0,,785,1618,113,27
+2024-01-13,BA944,"London / Heathrow (LHR/EGLL)","Dusseldorf / Dusseldorf International (DUS/EDDL)",15:50:00,18:15:00,01:25:00,"British Airways (BA/BAW)","Airbus A320 (A320)",G-EUYI,11C,3,1,0,,1618,763,113,27
+2024-01-20,BA987,"Berlin / Brandenburg (BER/EDDB)","London / Heathrow (LHR/EGLL)",19:45:00,20:40:00,01:55:00,"British Airways (BA/BAW)","Airbus A320 (A320)",G-EUYP,11C,3,1,0,,4895,1618,113,27
+2024-01-21,AY1340,"London / Heathrow (LHR/EGLL)","Helsinki / Vantaa (HEL/EFHK)",07:30:00,12:20:00,02:50:00,"Finnair (AY/FIN)","Airbus A320 (A320)",OH-LXM,11A,1,1,0,,1618,1110,304,27
+2024-01-21,AY1,"Helsinki / Vantaa (HEL/EFHK)","Los Angeles / Los Angeles International (LAX/KLAX)",16:00:00,17:05:00,11:05:00,"Finnair (AY/FIN)","Airbus A350-900 (A359)",OH-LWB,33L,3,1,0,,1110,1559,304,2110
+2024-01-25,AA4890,"Ontario / Ontario (ONT/KONT)","Phoenix / Sky Harbor (PHX/KPHX)",10:00:00,12:27:00,02:27:00,"American Airlines (AA/AAL)","Bombardier CRJ-700 (CRJ7)",N719EV,8D,3,1,0,,2196,2315,4,530
+2024-01-25,AA3421,"Phoenix / Sky Harbor (PHX/KPHX)","San Francisco / San Francisco International (SFO/KSFO)",14:36:00,15:49:00,01:13:00,"American Airlines (AA/AAL)","Embraer 175 (E75L)",N285NN,23F,3,1,0,,2315,2644,4,2146
+2024-03-14,AS319,"San Francisco / San Francisco International (SFO/KSFO)","Boston / Logan (BOS/KBOS)",22:40:00,07:29:00,05:49:00,"Alaska Airlines (AS/ASA)","Boeing 737-900 (B739)",N435AS,3C,3,3,0,,2644,380,79,232
+2024-03-19,AS357,"Boston / Logan (BOS/KBOS)","San Francisco / San Francisco International (SFO/KSFO)",18:59:00,22:53:00,06:54:00,"Alaska Airlines (AS/ASA)","Boeing 737-900 (B739)",N283AK,8C,3,4,0,,380,2644,79,232
+2024-03-26,AA276,"San Francisco / San Francisco International (SFO/KSFO)","New York / John F Kennedy (JFK/KJFK)",22:30:00,07:06:00,05:36:00,"American Airlines (AA/AAL)","Airbus A321 (A321)",N117AN,9C,3,2,0,,2644,1328,4,28
+2024-04-02,AA177,"New York / John F Kennedy (JFK/KJFK)","San Francisco / San Francisco International (SFO/KSFO)",21:00:00,00:44:00,06:44:00,"American Airlines (AA/AAL)","Airbus A321 (A321)",N111ZM,7D,3,2,0,,1328,2644,4,28
+2024-05-13,CX872,"Hong Kong / Hong Kong International (HKG/VHHH)","San Francisco / San Francisco International (SFO/KSFO)",00:50:00,22:20:00,12:30:00,"Cathay Pacific (CX/CPA)","Airbus A350-900 (A359)",B-LQA,30A,1,4,0,,1135,2644,199,2110
+2024-05-12,CX600,"Phnom Penh / Pochentong (PNH/VDPP)","Hong Kong / Hong Kong International (HKG/VHHH)",18:30:00,22:15:00,02:45:00,"Cathay Pacific (CX/CPA)","Airbus A321neo (A21N)",B-HPN,23K,1,1,0,,2362,1135,199,2128
+2024-05-10,QR975,"Hochiminh / Tan Son Nhat (SGN/VVTS)","Doha / Hamad International (DOH/OTHH)",09:35:00,13:25:00,07:50:00,"Qatar Airways (QR/QTR)","Boeing 787-8 (B788)",A7-BCP,4K,1,2,0,,2650,5259,634,2087
+2024-05-12,QR970,"Doha / Hamad International (DOH/OTHH)","Hochiminh / Tan Son Nhat (SGN/VVTS)",02:55:00,14:05:00,07:10:00,"Qatar Airways (QR/QTR)","Boeing 777-300ER (B77W)",A7-BOE,3A,1,2,0,,5259,2650,634,2023
+2024-05-12,QR970,"Hochiminh / Tan Son Nhat (SGN/VVTS)","Phnom Penh / Pochentong (PNH/VDPP)",15:30:00,16:15:00,00:45:00,"Qatar Airways (QR/QTR)","Boeing 777-300ER (B77W)",A7-BOE,3A,1,2,0,,2650,2362,634,2023
+2024-05-05,CX605,"Hong Kong / Hong Kong International (HKG/VHHH)","Phnom Penh / Pochentong (PNH/VDPP)",15:20:00,17:10:00,02:50:00,"Cathay Pacific (CX/CPA)","Airbus A321neo (A21N)",B-HPE,55K,1,1,0,,1135,2362,199,2128
+2024-05-04,CX873,"San Francisco / San Francisco International (SFO/KSFO)","Hong Kong / Hong Kong International (HKG/VHHH)",00:15:00,06:00:00,14:45:00,"Cathay Pacific (CX/CPA)","Airbus A350-900 (A359)",B-LRR,30K,1,4,0,,2644,1135,199,2110
+2024-05-07,QR974,"Doha / Hamad International (DOH/OTHH)","Hochiminh / Tan Son Nhat (SGN/VVTS)",20:45:00,07:55:00,07:10:00,"Qatar Airways (QR/QTR)","Boeing 787-8 (B788)",A7-BCT,3K,1,2,0,,5259,2650,634,2087
+2024-05-06,QR971,"Phnom Penh / Pochentong (PNH/VDPP)","Hochiminh / Tan Son Nhat (SGN/VVTS)",17:30:00,18:35:00,01:05:00,"Qatar Airways (QR/QTR)","Boeing 777-300ER (B77W)",A7-BOF,3K,1,2,0,,2362,2650,634,2023
+2024-05-06,QR971,"Hochiminh / Tan Son Nhat (SGN/VVTS)","Doha / Hamad International (DOH/OTHH)",20:00:00,23:35:00,07:35:00,"Qatar Airways (QR/QTR)","Boeing 777-300ER (B77W)",A7-BOF,3K,1,2,0,,2650,5259,634,2023
