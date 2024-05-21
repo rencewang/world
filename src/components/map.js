@@ -36,14 +36,13 @@ const Map = () => {
           }
         }
         setAirportCoordinates(coordinates);
-
-        console.log(coordinates, flights);
       } catch (error) {
         console.error('Error fetching airport coordinates:', error);
       }
     };
 
     fetchData();
+    console.log(airportCoordinates, flights);
   }, []);
 
   return (

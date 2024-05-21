@@ -2,7 +2,8 @@ function Header() {
   return (
     <header>
       <div>about</div>
-      <div>details</div>
+      <div>profile</div>
+      <div>setting</div>
     </header>
   );
 }
